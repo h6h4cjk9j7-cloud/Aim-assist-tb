@@ -11,9 +11,9 @@ local camera = workspace.CurrentCamera
 -- SETTINGS
 --------------------------------------------------
 
-local CIRCLE_SIZE = 100
+local CIRCLE_SIZE = 45
 local MAX_DISTANCE = 150
-local SMOOTHNESS = 6
+local SMOOTHNESS = 3.5
 local FIRE_RATE = 0.08
 
 local CIRCLE_Y_OFFSET = 8
